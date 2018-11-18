@@ -18,4 +18,4 @@ Methode `False` zurückgeben.
 
 3. Schreibe eine Methode `hat_mit_allen_einen_gemeinsamen_kurs`, die einen
 Schülernamen übergeben bekommt und genau dann `True` zurückliefert, wenn
-der Schüler mit allen andren Schülern einen gemeinsamen Kurs besucht.
+der Schüler mit allen anderen Schülern einen gemeinsamen Kurs besucht.
