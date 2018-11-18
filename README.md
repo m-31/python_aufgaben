@@ -1,5 +1,7 @@
 # Python Aufgaben
 
+## Aufgabe 1
+
 Die Schüler der 10. Klassen des Pythagoras-Gymnasiums haben verschiedene Kurse.
 Ermittle, ob es Schüler gibt, die mit jedem anderen Schüler
 der 10. Klasse zumindest einen gemeinsamen Kurs besuchen.
